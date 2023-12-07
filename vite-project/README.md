@@ -1,8 +1,7 @@
-# React + Vite
+# mi-aplicación-de-react
+Es el resultado para el Trabajo Integrador Final -Desarrollo en React JS
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
-
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Consigna
+Crear una aplicación web utilizando React que permita gestionar una lista de tareas. La aplicación
+deberá hacer uso de componentes funcionales, el hook useState para el manejo del estado, el hook
+useEffect para realizar efectos secundarios, y eventos para interactuar con el usuario.
