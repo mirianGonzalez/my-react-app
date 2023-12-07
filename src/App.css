@@ -1,0 +1,44 @@
+
+
+html {
+  background: #49b6e5;  
+  height: 100%;
+  display: flex;
+}
+body {
+  width: 150%;
+  margin: auto;
+}
+
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+label {
+  display: block;
+  font:
+    1rem 'Fira Sans',
+    sans-serif;
+}
+
+input,
+label {
+  margin: 0.4rem 0;
+}
+
+input.custom {
+  caret-color: red;
+  font:
+    16px "Helvetica",
+    "Arial",
+    "sans-serif";
+}
+.good, h1{
+  background-color: #c1d2dd;
+    text-align: center;
+    font: 100;
+}
+
+
+
+
